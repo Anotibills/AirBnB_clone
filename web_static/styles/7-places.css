@@ -1,0 +1,32 @@
+/* General styles for places */
+.places {
+    font-size: 30px;
+    padding-left: 30px;
+    text-align: center;
+}
+
+/* Heading styles within .places */
+.places h1 {
+    text-align: left;
+    margin: 15px;
+}
+
+/* Centered heading style */
+h2 {
+    text-align: center;
+}
+
+/* Article container styles */
+article {
+    width: 390px;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #FF5A5F;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+/* Heading style within articles */
+article h2 {
+    font-size: 30px;
+}

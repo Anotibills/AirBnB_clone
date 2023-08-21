@@ -1,0 +1,56 @@
+/* Filter container styles */
+.filters {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+}
+
+/* Location filter styles */
+.locations {
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+/* Amenities filter styles */
+.amenities {
+    height: 100%;
+    width: 25%;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+/* Heading 3 styles */
+h3 {
+    font-weight: 600;
+    margin-top: 10px;
+}
+
+/* Heading 4 styles */
+h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: -12px;
+}
+
+/* Button styles */
+button {
+    font-size: 18px;
+    background-color: #ff5a5f;
+    color: #FFFFFF;
+    height: 48px;
+    border: 0;
+    width: 20%;
+    border-radius: 4px;
+    margin: 10px auto;
+    float: right;
+    margin-right: 20px;    
+}
+
+/* Button hover effect */
+button:hover {
+    opacity: 0.9;

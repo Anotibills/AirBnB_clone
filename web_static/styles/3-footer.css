@@ -1,0 +1,19 @@
+/* Footer styles */
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    background-color: white;
+    border-top: 1px solid #CCCCCC;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 60px;
+}
+
+/* Paragraph styles */
+p {
+    text-align: center;
+    vertical-align: middle;
+}
